@@ -1,0 +1,13 @@
+{
+  "name": "aim",
+  "version": "0.1.0",
+  "description": "AI Session Continuity Manager — auto-resume Claude Code sessions after usage limits. Adds /aim-run, /aim-status, /aim-resume, /aim-cancel slash commands.",
+  "author": {
+    "name": "callmev1nc",
+    "url": "https://github.com/callmev1nc"
+  },
+  "homepage": "https://github.com/callmev1nc/Claude-Automation",
+  "repository": "https://github.com/callmev1nc/Claude-Automation",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude", "rate-limit", "auto-resume", "session-continuity", "quota"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "callmev1nc-claude-automation",
+  "owner": {
+    "name": "callmev1nc",
+    "url": "https://github.com/callmev1nc"
+  },
+  "plugins": [
+    {
+      "name": "aim",
+      "source": "./",
+      "description": "AI Session Continuity Manager — auto-resume Claude Code sessions after usage limits.",
+      "version": "0.1.0",
+      "category": "automation",
+      "keywords": ["claude-code", "rate-limit", "auto-resume", "quota"]
+    }
+  ]
+}
