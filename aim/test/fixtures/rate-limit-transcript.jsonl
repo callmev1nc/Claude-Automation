@@ -1,0 +1,2 @@
+{"type":"tool","tool":"Read","input":{"file_path":"test.txt"},"output":"content"}
+{"type":"error","message":"Rate limit exceeded. Usage resets at 2026-06-30T14:30:00Z"}

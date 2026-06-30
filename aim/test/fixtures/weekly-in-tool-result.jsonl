@@ -1,0 +1,2 @@
+{"type":"user","message":{"role":"user","content":[{"type":"tool_result","content":"# AIM GUIDE.md\n\nIf you hit the weekly cap, the weekly limit resets on Monday and you must wait."}]}}
+{"type":"assistant","message":{"role":"assistant","content":[{"type":"text","text":"Done."}]}}

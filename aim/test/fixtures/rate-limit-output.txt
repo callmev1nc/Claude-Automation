@@ -1,0 +1,2 @@
+Error: You've hit a rate limit. Please try again in about 30 minutes.
+Usage limits reset at approximately 2:30 PM.
